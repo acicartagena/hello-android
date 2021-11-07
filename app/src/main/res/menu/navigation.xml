@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/pickPlayersFragment"
+        android:icon="@drawable/ic_twotone_account_circle_24"
+        android:title="@string/players"/>
+    <item
+        android:id="@+id/gameFragment"
+        android:icon="@drawable/ic_baseline_auto_awesome_24"
+        android:title="@string/game"/>
+
+</menu>
